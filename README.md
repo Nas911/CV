@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Nazar Dovgorukyi CV</title>
+	<title> Name CV</title>
 	<link rel="stylesheet" type="text/css" href="body5.css">
 	<script type="text/javascript">
 
@@ -24,7 +24,7 @@ var ns6=document.getElementById&&!document.all?1:0
 <body>
 
 	<div class="pq">
-		<h1>Nazar Dovgorukyi</h1>
+		<h1>Name</h1>
 		<h1>Junior Quality Assurance Engineer</h1>
 		<img src="Niko.jpg"/>
 
@@ -248,8 +248,8 @@ var ns6=document.getElementById&&!document.all?1:0
 <div style="overflow: hidden;">
     <div style="width: 1000%;">
         <div style="float: left; margin-left: 100px; width: 370px; height: 10px auto; color: white;">Cell: +38 (097) 682 73 34</div>
-        <div style="float: left; width: 300px; text-align: left; height: 100px auto; color: white">e-mail: n.dovgorukyi@gmail.com</div>
-        <div style="float: left; margin-left: 0px; width: 300px; height: 100px auto; color: white">Skype: n.dovgorukyi</div>
+        <div style="float: left; width: 300px; text-align: left; height: 100px auto; color: white">e-mail: n@gmail.com</div>
+        <div style="float: left; margin-left: 0px; width: 300px; height: 100px auto; color: white">Skype: n</div>
     </div>
 </div></div>
 
